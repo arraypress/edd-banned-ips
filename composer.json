@@ -1,0 +1,16 @@
+{
+  "require": {
+    "arraypress/plugin-meta": "*",
+    "easydigitaldownloads/edd-addon-tools": "*"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/arraypress/plugin-meta"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/awesomemotive/edd-addon-tools"
+    }
+  ]
+}

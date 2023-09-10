@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => '__root__',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '590b69e8c28e20f01dc8dc2d94075ab4b40f9d84',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '590b69e8c28e20f01dc8dc2d94075ab4b40f9d84',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'arraypress/plugin-meta' => array(
+            'pretty_version' => '1.0.1',
+            'version' => '1.0.1.0',
+            'reference' => '7c22d9cd4e4cdff6ecf53f18f4713354477cc276',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../arraypress/plugin-meta',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'easydigitaldownloads/edd-addon-tools' => array(
+            'pretty_version' => '1.0.1',
+            'version' => '1.0.1.0',
+            'reference' => 'f3e56fe5e2bc231a38679bb71dcb08ca30657db6',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../easydigitaldownloads/edd-addon-tools',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
