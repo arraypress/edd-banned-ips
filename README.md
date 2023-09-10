@@ -1,5 +1,7 @@
 ## Banned IPs for Easy Digital Downloads
 
+![EDD Banned IPs](https://raw.githubusercontent.com/arraypress/edd-banned-ips/main/assets/edd-bannedips-cover.svg)
+
 Safeguard your Easy Digital Downloads store by controlling who can make purchases through the targeted blocking of
 specific IP addresses and user agents. Experience a significant reduction in chargebacks, fraudulent activities, and
 undesirable users with ill intent.
